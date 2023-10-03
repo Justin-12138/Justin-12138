@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design,machine learning,data mining,operating system.
   
 - 🌱 I’m currently learning the GNU/Linux and Something about web design.
-- 💞️ I’m looking to collaborate on [feature_selection_algorithm](https://github.com/Justin-12138/feature_selection_algorithm
+- 💞️ I’m looking to collaborate on [feature_selection_algorithm](https://github.com/Justin-12138/feature_selection_algorithm)
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-12138&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-12138&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
