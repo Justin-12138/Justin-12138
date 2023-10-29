@@ -12,11 +12,11 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cpp,linux,vim,bash,md,powershell,py,vscode,pytorch,mysql,nginx" />
+      <img src="https://skillicons.dev/icons?i=linux,md,vim,bash,git,cpp,py,pytorch,js,html,css,flask,r,kubernetes,docker,vscode,mysql,nginx" />
     </a>
   </p>
 
 
 - 📫 How to reach me(:computer_mouse:the icon!) 
 
-  [<img src="svgs_pics/github.svg" style="zoom:5%;" />](https://github.com/Justin-12138)              [<img src="svgs_pics/youtube.svg" style="zoom:5%;" />](https://www.youtube.com/channel/UCGuo9zmm4Dayi_rXj-nWP5A)                [<img src="svgs_pics/instagram.svg" style="zoom:5%;" />](https://www.instagram.com/justinliu303/)                  [<img src="svgs_pics/blog.svg" style="zoom:5%;" />](https://justin-12138.github.io/)
+  [<img src="assets/github.svg" style="zoom:5%;" />](https://github.com/Justin-12138)              [<img src="assets/youtube.svg" style="zoom:5%;" />](https://www.youtube.com/channel/UCGuo9zmm4Dayi_rXj-nWP5A)                [<img src="assets/instagram.svg" style="zoom:5%;" />](https://www.instagram.com/justinliu303/)                  [<img src="assets/blog.svg" style="zoom:5%;" />](https://justin-12138.github.io/)
